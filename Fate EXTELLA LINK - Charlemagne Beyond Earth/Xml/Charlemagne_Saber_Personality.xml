@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/27/2018 8:29:04 PM -->
+<GameData>
+
+	<PersonalityTraits>
+		<Row>
+			<Type>PERSONALITY_TRAIT_CHARLEMAGNE_SABER</Type>
+			<Description>TXT_KEY_PERSONALITY_TRAIT_CHARLEMAGNE_SABER</Description>
+			<Help>TXT_KEY_PERSONALITY_TRAIT_CHARLEMAGNE_SABER_HELP</Help>
+			<TraitCategoryType>PERSONALITY_TRAIT_CATEGORY_CHARACTER</TraitCategoryType>
+			<Unique>true</Unique>
+			<ScriptName>PersonalityTrait_Character_Culture</ScriptName>
+			<PortraitIndex>34</PortraitIndex>
+		</Row>
+	</PersonalityTraits>
+	<PersonalityTraits_Perks>
+		<Row>
+			<PersonalityTraitType>PERSONALITY_TRAIT_CHARLEMAGNE_SABER</PersonalityTraitType>
+			<PlayerPerkType>PLAYERPERK_PERSONALITY_TRAIT_CHARLEMAGNE_SABER1</PlayerPerkType>
+			<Level>1</Level>
+		</Row>
+		<Row>
+			<PersonalityTraitType>PERSONALITY_TRAIT_CHARLEMAGNE_SABER</PersonalityTraitType>
+			<PlayerPerkType>PLAYERPERK_PERSONALITY_TRAIT_CHARLEMAGNE_SABER2</PlayerPerkType>
+			<Level>2</Level>
+		</Row>
+		<Row>
+			<PersonalityTraitType>PERSONALITY_TRAIT_CHARLEMAGNE_SABER</PersonalityTraitType>
+			<PlayerPerkType>PLAYERPERK_PERSONALITY_TRAIT_CHARLEMAGNE_SABER3</PlayerPerkType>
+			<Level>3</Level>
+		</Row>
+	</PersonalityTraits_Perks>
+	<PersonalityTraits_ForeignPolicies>
+		<Row>
+			<PersonalityTraitType>PERSONALITY_TRAIT_CHARLEMAGNE_SABER</PersonalityTraitType>
+			<ForeignPolicyType>FOREIGN_POLICY_CHARLEMAGNE_SABER_A</ForeignPolicyType>
+		</Row>
+		<Row>
+			<PersonalityTraitType>PERSONALITY_TRAIT_CHARLEMAGNE_SABER</PersonalityTraitType>
+			<ForeignPolicyType>FOREIGN_POLICY_CHARLEMAGNE_SABER_B</ForeignPolicyType>
+		</Row>
+	</PersonalityTraits_ForeignPolicies>
+
+
+
+
+
+
+		<ForeignPolicies>
+			<Row>
+				<Type>FOREIGN_POLICY_CHARLEMAGNE_SABER_A</Type>
+				<Description>TXT_KEY_FOREIGN_POLICY_CHARLEMAGNE_SABER_A</Description>
+				<Help>TXT_KEY_FOREIGN_POLICY_CHARLEMAGNE_SABER_A_HELP</Help>
+				<PurchaseCost>150</PurchaseCost>
+				<PerTurnCost>15</PerTurnCost>
+				<PortraitIndex>0</PortraitIndex>
+			</Row>
+			<Row>
+				<Type>FOREIGN_POLICY_CHARLEMAGNE_SABER_B</Type>
+				<Description>TXT_KEY_FOREIGN_POLICY_CHARLEMAGNE_SABER_B</Description>
+				<Help>TXT_KEY_FOREIGN_POLICY_CHARLEMAGNE_SABER_B_HELP</Help>
+				<PurchaseCost>250</PurchaseCost>
+				<PerTurnCost>25</PerTurnCost>
+				<PortraitIndex>9</PortraitIndex>
+			</Row>
+		</ForeignPolicies>
+		<ForeignPolicies_Perks>
+			<Row>
+				<ForeignPolicyType>FOREIGN_POLICY_CHARLEMAGNE_SABER_A</ForeignPolicyType>
+				<PlayerPerkType>PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_A1</PlayerPerkType>
+				<RelationshipLevelType>RELATIONSHIP_LEVEL_NEUTRAL</RelationshipLevelType>
+			</Row>
+			<Row>
+				<ForeignPolicyType>FOREIGN_POLICY_CHARLEMAGNE_SABER_A</ForeignPolicyType>
+				<PlayerPerkType>PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_A2</PlayerPerkType>
+				<RelationshipLevelType>RELATIONSHIP_LEVEL_COOPERATIVE</RelationshipLevelType>
+			</Row>
+			<Row>
+				<ForeignPolicyType>FOREIGN_POLICY_CHARLEMAGNE_SABER_A</ForeignPolicyType>
+				<PlayerPerkType>PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_A3</PlayerPerkType>
+				<RelationshipLevelType>RELATIONSHIP_LEVEL_ALLIED</RelationshipLevelType>
+			</Row>
+			<Row>
+				<ForeignPolicyType>FOREIGN_POLICY_CHARLEMAGNE_SABER_B</ForeignPolicyType>
+				<PlayerPerkType>PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_B1</PlayerPerkType>
+				<RelationshipLevelType>RELATIONSHIP_LEVEL_NEUTRAL</RelationshipLevelType>
+			</Row>
+			<Row>
+				<ForeignPolicyType>FOREIGN_POLICY_CHARLEMAGNE_SABER_B</ForeignPolicyType>
+				<PlayerPerkType>PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_B2</PlayerPerkType>
+				<RelationshipLevelType>RELATIONSHIP_LEVEL_COOPERATIVE</RelationshipLevelType>
+			</Row>
+			<Row>
+				<ForeignPolicyType>FOREIGN_POLICY_CHARLEMAGNE_SABER_B</ForeignPolicyType>
+				<PlayerPerkType>PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_B3</PlayerPerkType>
+				<RelationshipLevelType>RELATIONSHIP_LEVEL_ALLIED</RelationshipLevelType>
+			</Row>
+		</ForeignPolicies_Perks>
+
+
+
+
+
+	</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/27/2018 2:09:09 AM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_CHARLEMAGNE_SABER_PRIMARY</Type>
+			<Red>0</Red>
+			<Green>0.286</Green>
+			<Blue>1</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_CHARLEMAGNE_SABER_SECONDARY</Type>
+			<Red>0.921</Red>
+			<Green>0.921</Green>
+			<Blue>0.921</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+	
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_CHARLEMAGNE_SABER</Type>
+			<PrimaryColor>COLOR_PLAYER_LEADER_CHARLEMAGNE_SABER_SECONDARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_LEADER_CHARLEMAGNE_SABER_PRIMARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_MIDDLE_BLUE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+
+
+</GameData>

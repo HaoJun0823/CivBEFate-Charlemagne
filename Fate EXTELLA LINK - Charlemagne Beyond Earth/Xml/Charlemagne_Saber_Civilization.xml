@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/27/2018 12:21:08 AM -->
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</Type>
+			<Description>TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_ADJECTIVE</Adjective>
+			<CivilopediaTag>TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA</CivilopediaTag>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+			<DefaultPlayerColor>PLAYERCOLOR_CHARLEMAGNE_SABER</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_FRANCE</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+			<DerivativeCiv></DerivativeCiv>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CHARLEMAGNE_SABER_CIV</IconAtlas>
+			<AlphaIconAtlas>CHARLEMAGNE_SABER_CIV_ALPHA</AlphaIconAtlas>
+
+			<GradientIconAtlas>NULL</GradientIconAtlas>
+			<GlowIconAtlas>NULL</GlowIconAtlas>
+
+
+			<IntroductionQuote>TXT_KEY_CIV5_DAWN_CHARLEMAGNE_SABER_FRANCIA_TEXT%</IntroductionQuote>
+			<IntroductionAudio></IntroductionAudio>
+			<SoundtrackTag></SoundtrackTag>
+			<Personality>PERSONALITY_CHARLEMAGNE_SABER</Personality>
+		</Row>
+	</Civilizations>
+
+	<Personalities>
+		<Row>
+			<Type>PERSONALITY_CHARLEMAGNE_SABER</Type>
+			<ScriptName>FrancoIberiaPersonality</ScriptName>
+			<UniquePersonalityTrait>PERSONALITY_TRAIT_CHARLEMAGNE_SABER</UniquePersonalityTrait>
+		</Row>
+	</Personalities>
+	
+	
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<LeaderheadType>LEADER_CHARLEMAGNE_SABER</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<UnitClassType>UNITCLASS_ALIEN_KRAKEN</UnitClassType>
+			<UnitType/>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_HEADQUARTERS</BuildingClassType>
+		</Row>		
+	</Civilization_FreeBuildingClasses>
+	
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<TechType>TECH_HABITATION</TechType>
+		</Row>		
+	</Civilization_FreeTechs>
+
+
+
+
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_REAL_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_16</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_17</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_18</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_19</CityName>
+		</Row>
+	</Civilization_CityNames>
+
+
+
+
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<SpyName>TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<SpyName>TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<SpyName>TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<SpyName>TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<SpyName>TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<SpyName>TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<SpyName>TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<SpyName>TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<SpyName>TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_9</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<SpyName>TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_10</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<SpyName>TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_11</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHARLEMAGNE_SABER_FRANCIA</CivilizationType>
+			<SpyName>TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_12</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+	
+</GameData>

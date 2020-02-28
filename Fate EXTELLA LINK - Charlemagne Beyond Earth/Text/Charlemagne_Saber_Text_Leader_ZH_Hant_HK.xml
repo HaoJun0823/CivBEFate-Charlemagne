@@ -1,0 +1,614 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_HANT_HK>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_1">
+		  <Text>太棒了！</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_2">
+		  <Text>好的！</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_3">
+		  <Text>沒問題！</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_4">
+		  <Text>當然！</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_5">
+		  <Text>太好了！</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_6">
+		  <Text>完美！</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_7">
+		  <Text>非常好！</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_ATTACKED_1">
+		  <Text>為了這個世界……我不得不選擇最壞的選擇……戰鬥吧。</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_ATTACKED_2">
+		  <Text>不管以前如何，我都要用最後的選擇來糾正妳……</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_ATTACKED_3">
+		  <Text>這是妳讓我選擇的，接招吧。</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DECLAREWAR_1">
+		  <Text>抱歉，我迫不得已……</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DECLAREWAR_2">
+		  <Text>對不起……</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DECLAREWAR_3">
+		  <Text>我知道這樣不好，但……</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEFEATED_1">
+		  <Text>哎呀，果然自己還是年輕呢，非常高興能夠和妳壹起冒險，下次見。</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEFEATED_2">
+		  <Text>恭喜妳，妳贏了……可不可以做我的老師，或者是……禦主？</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEFEATED_3">
+		  <Text>哇！失敗了！真不帥！</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEMANDTRIBUTE_ANGRY">
+		  <Text>我真的很需要那個東西！再不給我要生氣了哦？</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEMANDTRIBUTE_HAPPY">
+		  <Text>嘿！帥氣的朋友！能不能幫我壹下？</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEMANDTRIBUTE_NEUTRAL">
+		  <Text>妳能不能給我壹些東西？</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_1">
+		  <Text>抱歉，現在不行哦。</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_2">
+		  <Text>以後再說吧？</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_3">
+		  <Text>請允許我拒絕。</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_4">
+		  <Text>不可以哦。</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_5">
+		  <Text>現在接受我也很為難的。</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_6">
+		  <Text>這……不是玩笑吧？</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_7">
+		  <Text>哇！這樣可壹點也不帥氣……</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_FIRSTGREETING_1">
+		  <Text>妳好！我是查理曼！來自SE.RA.PH，讓我們來互相介紹吧？</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_FIRSTGREETING_2">
+		  <Text>帥氣的陌生人！妳好！我是查理曼！想不想和我騎馬逛逛？</Text>
+	  </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_FIRSTGREETING_3">
+      <Text>嗯……你好！大人！皇帝？還是領主？不管怎麼樣！很高興認識你！我是查理曼，請叫我查理。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_FIRSTGREETING_4">
+      <Text>哇！你一定是來自其他地方的冒險者吧？很高興認識你！我是查理曼！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_1">
+      <Text>下次再見吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_2">
+      <Text>一會兒見哦！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_3">
+      <Text>記得要想我！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_4">
+      <Text>帥氣的再見吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_5">
+      <Text>下次見面我會抱你的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_6">
+      <Text>哇！這麼快就再見了？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_7">
+      <Text>不見不散哦！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_1">
+      <Text>歡迎！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_2">
+      <Text>呦！帥氣的領導者！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_3">
+      <Text>今天天氣很不錯啊！想要喝茶嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_4">
+      <Text>你看起來很帥氣呢！和我一樣哦~</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_5">
+      <Text>嗯？來找我有什麼事嗎？想要玩遊戲？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_6">
+      <Text>有時間我想帶你去我的家鄉逛一逛，那裡真的很美好！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_7">
+      <Text>希望下次見面是在七天以後哦！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_1">
+      <Text>來吧來吧，我不會介意的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_2">
+      <Text>有什麼想法？酷酷的？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_3">
+      <Text>當然！講出來吧！藏著秘密可不好哦！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_4">
+      <Text>有什麼事情嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_5">
+      <Text>嗯哼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_6">
+      <Text>下一步該怎麼做呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_7">
+      <Text>嗯……</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LOSEWAR_1">
+      <Text>哇！你好強啊！下次我會變得更強的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_QUOTE_1">
+      <Text>「哇！這就是羅馬嗎？真棒啊！」</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_QUOTE_2">
+      <Text>「喂！御主！那個叫做日本茶的，再給我泡一杯吧！」</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_QUOTE_3">
+      <Text>「有什麼嘛！偶爾也讓我撒撒嬌嘛！」</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_QUOTE_4">
+      <Text>「怎麼樣，很帥吧！」</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_ANGRY_1">
+      <Text>喂！羞辱別人可不好哦！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_ANGRY_2">
+      <Text>你不要把我當做白癡哦！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_HAPPY_1">
+      <Text>哇……不要這樣，我很為難的……</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_HAPPY_2">
+      <Text>可不可以？稍微？再多一點？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_HAPPY_3">
+      <Text>嗯，讓我們在談談細節……</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>公平交易，要不然一點也不帥氣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>我覺得你還有更多籌碼，對吧？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>讓我們來把這次交易變得更好一些吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>嗯……再考慮考慮？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NO_ANGRY">
+      <Text>算了……這樣下去對誰都不好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NO_HAPPY">
+      <Text>嗚嗚嗚……</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NO_NEUTRAL">
+      <Text>如果你想知道的話，實際上，我不高興。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_YES_ANGRY">
+      <Text>就這樣吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_YES_HAPPY">
+      <Text>非常感謝！我會報答的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_YES_NEUTRAL">
+      <Text>感謝你的幫助！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADEREQUEST_ANGRY">
+      <Text>你想看就看看吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADEREQUEST_HAPPY">
+      <Text>帥氣的朋友！看看這個吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADEREQUEST_NEUTRAL">
+      <Text>我這裡有一些東西想和你分享，來看看吧？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_NO_ANGRY">
+      <Text>搶……我？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_NO_HAPPY">
+      <Text>哇！你開這種惡劣的玩笑讓我很尷尬哦！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_NO_NEUTRAL">
+      <Text>請問？你是不是犯了什麼錯誤？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_YES_ANGRY">
+      <Text>嗚……欺負我……</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_YES_HAPPY">
+      <Text>如果……你開心的話？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_YES_NEUTRAL">
+      <Text>也許，這能讓你對我有所好感。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_1">
+      <Text>你讓我好急躁啊！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_2">
+      <Text>為什麼？為什麼要這樣做？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_3">
+      <Text>你……一定是有理由的，對吧？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_4">
+      <Text>我不喜歡失望，尤其是在你身上發生。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_5">
+      <Text>如果有困難，我能幫你一把嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_6">
+      <Text>你不要再犯錯了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WINWAR_1">
+      <Text>啊！！！！真是的！！！</Text>
+    </Row>
+
+
+
+
+
+
+
+
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_PEDIA">
+		  <Text>
+			  我是Saber，查理曼。總之先冷靜下來，聽聽我的話如何？
+		  </Text>
+	  </Row>
+
+	  <Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_HEADING_1">
+		  <Text>文明資料</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_LIVED">
+		  <Text>永遠</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_NAME">
+		  <Text>查理曼（劍階）</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_SUBTITLE">
+		  <Text>來自FATE/EXTELLA LINK的騎士</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_TEXT_1">
+		  <Text>
+			  Saber的真名是查理曼（シャルルマーニュ，Sharurumānyu），查理曼十二聖騎士的領袖和同名人物。查理曼和他的聖騎士的傳說是基於KarlderGroße的真實生活。它們都是具有相同靈基的英雄精神，但由於卡爾的真實生活利用遠遠超過幻想，所以通常永遠不會召喚查理曼。由於故事的具體事件，他只被召喚，但他的靈基在故事的最後被記錄為一個獨特的存在，以允許他被單獨召喚。
+		  </Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_TITLES_1">
+		  <Text>聖騎士帝 EX</Text>
+	  </Row>
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+  </Language_ZH_HANT_HK>
+
+	<Language_ZH_HANS_CN>
+
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_1">
+			<Text>太棒了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_2">
+			<Text>好的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_3">
+			<Text>没问题！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_4">
+			<Text>当然！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_5">
+			<Text>太好了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_6">
+			<Text>完美！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_7">
+			<Text>非常好！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_ATTACKED_1">
+			<Text>为了这个世界……我不得不选择最坏的选择……战斗吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_ATTACKED_2">
+			<Text>不管以前如何，我都要用最后的选择来纠正你……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_ATTACKED_3">
+			<Text>这是你让我选择的，接招吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DECLAREWAR_1">
+			<Text>抱歉，我迫不得已……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DECLAREWAR_2">
+			<Text>对不起……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DECLAREWAR_3">
+			<Text>我知道这样不好，但……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEFEATED_1">
+			<Text>哎呀，果然自己还是年轻呢，非常高兴能够和你一起冒险，下次见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEFEATED_2">
+			<Text>恭喜你，你赢了……可不可以做我的老师，或者是……御主？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEFEATED_3">
+			<Text>哇！失败了！真不帅！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEMANDTRIBUTE_ANGRY">
+			<Text>我真的很需要那个东西！再不给我要生气了哦？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEMANDTRIBUTE_HAPPY">
+			<Text>嘿！帅气的朋友！能不能帮我一下？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEMANDTRIBUTE_NEUTRAL">
+			<Text>你能不能给我一些东西？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_1">
+			<Text>抱歉，现在不行哦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_2">
+			<Text>以后再说吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_3">
+			<Text>请允许我拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_4">
+			<Text>不可以哦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_5">
+			<Text>现在接受我也很为难的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_6">
+			<Text>这……不是玩笑吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_7">
+			<Text>哇！这样可一点也不帅气……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_FIRSTGREETING_1">
+			<Text>你好！我是查理曼！来自SE.RA.PH，让我们来互相介绍吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_FIRSTGREETING_2">
+			<Text>帅气的陌生人！你好！我是查理曼！想不想和我骑马逛逛？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_FIRSTGREETING_3">
+			<Text>嗯……你好！大人！皇帝？还是领主？不管怎麽样！很高兴认识你！我是查理曼，请叫我查理。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_FIRSTGREETING_4">
+			<Text>哇！你一定是来自其他地方的冒险者吧？很高兴认识你！我是查理曼！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_1">
+			<Text>下次再见吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_2">
+			<Text>一会儿见哦！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_3">
+			<Text>记得要想我！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_4">
+			<Text>帅气的再见吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_5">
+			<Text>下次见面我会抱你的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_6">
+			<Text>哇！这麽快就再见了？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_7">
+			<Text>不见不散哦！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_1">
+			<Text>欢迎！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_2">
+			<Text>呦！帅气的领导者！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_3">
+			<Text>今天天气很不错啊！想要喝茶吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_4">
+			<Text>你看起来很帅气呢！和我一样哦~</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_5">
+			<Text>嗯？来找我有什麽事吗？想要玩游戏？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_6">
+			<Text>有时间我想带你去我的家乡逛一逛，那裡真的很美好！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_7">
+			<Text>希望下次见面是在七天以后哦！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_1">
+			<Text>来吧来吧，我不会介意的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_2">
+			<Text>有什麽想法？酷酷的？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_3">
+			<Text>当然！讲出来吧！藏著秘密可不好哦！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_4">
+			<Text>有什麽事情吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_5">
+			<Text>嗯哼？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_6">
+			<Text>下一步该怎麽做呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_7">
+			<Text>嗯……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LOSEWAR_1">
+			<Text>哇！你好强啊！下次我会变得更强的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_QUOTE_1">
+			<Text>「哇！这就是罗马吗？真棒啊！」</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_QUOTE_2">
+			<Text>「喂！御主！那个叫做日本茶的，再给我泡一杯吧！」</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_QUOTE_3">
+			<Text>「有什麽嘛！偶尔也让我撒撒娇嘛！」</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_QUOTE_4">
+			<Text>「怎麽样，很帅吧！」</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_ANGRY_1">
+			<Text>喂！羞辱别人可不好哦！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_ANGRY_2">
+			<Text>你不要把我当做白痴哦！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_HAPPY_1">
+			<Text>哇……不要这样，我很为难的……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_HAPPY_2">
+			<Text>可不可以？稍微？再多一点？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_HAPPY_3">
+			<Text>嗯，让我们在谈谈细节……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>公平交易，要不然一点也不帅气。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>我觉得你还有更多筹码，对吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>让我们来把这次交易变得更好一些吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>嗯……再考虑考虑？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NO_ANGRY">
+			<Text>算了……这样下去对谁都不好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NO_HAPPY">
+			<Text>呜呜呜……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NO_NEUTRAL">
+			<Text>如果你想知道的话，实际上，我不高兴。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_YES_ANGRY">
+			<Text>就这样吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_YES_HAPPY">
+			<Text>非常感谢！我会报答的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_YES_NEUTRAL">
+			<Text>感谢你的帮助！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADEREQUEST_ANGRY">
+			<Text>你想看就看看吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADEREQUEST_HAPPY">
+			<Text>帅气的朋友！看看这个吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADEREQUEST_NEUTRAL">
+			<Text>我这裡有一些东西想和你分享，来看看吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_NO_ANGRY">
+			<Text>抢……我？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_NO_HAPPY">
+			<Text>哇！你开这种恶劣的玩笑让我很尴尬哦！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_NO_NEUTRAL">
+			<Text>请问？你是不是犯了什麽错误？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_YES_ANGRY">
+			<Text>呜……欺负我……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_YES_HAPPY">
+			<Text>如果……你开心的话？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_YES_NEUTRAL">
+			<Text>也许，这能让你对我有所好感。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_1">
+			<Text>你让我好急躁啊！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_2">
+			<Text>为什麽？为什麽要这样做？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_3">
+			<Text>你……一定是有理由的，对吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_4">
+			<Text>我不喜欢失望，尤其是在你身上发生。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_5">
+			<Text>如果有困难，我能帮你一把吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_6">
+			<Text>你不要再犯错了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WINWAR_1">
+			<Text>啊！！！！真是的！！！</Text>
+		</Row>
+
+
+
+
+
+
+
+
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_PEDIA">
+			<Text>
+				我是Saber，查理曼。总之先冷静下来，听听我的话如何？
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_HEADING_1">
+			<Text>文明资料</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_LIVED">
+			<Text>永远</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_NAME">
+			<Text>查理曼（剑阶）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_SUBTITLE">
+			<Text>来自FATE/EXTELLA LINK的骑士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_TEXT_1">
+			<Text>
+				Saber的真名是查理曼（シャ儿儿マーニュ，Sharurumānyu），查理曼十二圣骑士的领袖和同名人物。查理曼和他的圣骑士的传说是基于KarlderGroße的真实生活。它们都是具有相同灵基的英雄精神，但由于卡尔的真实生活利用远远超过幻想，所以通常永远不会召唤查理曼。由于故事的具体事件，他只被召唤，但他的灵基在故事的最后被记录为一个独特的存在，以允许他被单独召唤。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_TITLES_1">
+			<Text>圣骑士帝 EX</Text>
+		</Row>
+
+	</Language_ZH_HANS_CN>	
+	
+	
+</GameData>

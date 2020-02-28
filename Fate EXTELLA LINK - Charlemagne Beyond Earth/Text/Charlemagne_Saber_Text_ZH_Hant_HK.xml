@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/27/2018 1:47:24 AM -->
+<GameData>
+	<Language_ZH_HANT_HK>
+		<Row Tag="TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_DESC">
+			<Text>帥氣的“法蘭克王國”</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_SHORT_DESC">
+			<Text>“法蘭克”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_ADJECTIVE">
+			<Text>“法蘭克”的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER">
+			<Text>查理曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_FACTOID_HEADINGD">
+			<Text>帥氣的“法蘭克王國”</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_TITLE">
+			<Text>“法蘭克”</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_FACTOID_HEADING">
+			<Text>文明信息</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_FACTOID_TEXT">
+			<Text>這個文明是通過查理曼寶具虛擬化製成的，所以並沒有什麼資料。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_HEADING_1">
+			<Text>第二個寶具</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_TEXT_1">
+			<Text>吾轉瞬即逝的榮光，一座巨大的空中要塞，在這裡，它創造了整個“法蘭克”。</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV5_DAWN_CHARLEMAGNE_SABER_FRANCIA_TEXT" >
+			<Text>一個無憂無慮的年輕人，有點直言不諱地說自己不太適合成為國王。他將審美標準和行為放在“這是酷還是不酷”上，即便會給禦主造成麻煩，甚至是對自己的一個缺點......儘管存在這種人格缺陷，但阿斯托爾福仍將查理曼描述為一個盡職盡責的仁慈之王。會與他的人民一起哭泣和欢笑，並幫助那些有需要的人。 </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_CHARLEMAGNE_SABER_ABILITY" >
+			<Text>雙倍法國、德國、羅馬文明特性（來自文明5）。經驗獲取速度、前哨站成長速度、城邦友好和城邦獎勵、奇觀和項目建造速度分別加成200%、150%、100%、50%。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_CHARLEMAGNE_SABER_ABILITY_SHORT" >
+			<Text>展示王勇遍歷巡世的十二輝劍</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_REAL_CAPITAL" >
+			<Text>查理曼的亞琛</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_1" >
+			<Text>衛宮的冬木</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_2" >
+			<Text>貞德的奧爾良</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_3" >
+			<Text>德雷克的無盡之海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_4" >
+			<Text>尼祿的羅馬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_5" >
+			<Text>福爾摩斯的倫敦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_6" >
+			<Text>愛迪生的美利堅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_7" >
+			<Text>阿爾托莉雅的卡美洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_8" >
+			<Text>吉爾伽美什的巴比倫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_9" >
+			<Text>所羅門的神殿</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_10" >
+			<Text>伊斯坎達爾的馬其頓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_11" >
+			<Text>奧茲曼迪亞斯的埃及</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_12" >
+			<Text>拿破侖的法蘭西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_13" >
+			<Text>武則天的中國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_14" >
+			<Text>大衛的以色列</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_15" >
+			<Text>大流士三世的波斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_16" >
+			<Text>賽米拉米斯的亞述</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_17" >
+			<Text>阿提拉的匈奴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_18" >
+			<Text>艾蕾什基伽爾的冥界</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_19" >
+			<Text>BB的SE.RA.PH</Text>
+		</Row>
+
+
+
+
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_1" >
+			<Text>羅蘭</Text>
+			<!-- 羅蘭 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_2" >
+			<Text>李拿度</Text>
+			<!-- 李拿度 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_3" >
+			<Text>托賓</Text>
+			<!-- 托賓 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_4" >
+			<Text>馬拉吉吉</Text>
+			<!-- 馬拉吉吉 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_5" >
+			<Text>奧吉爾</Text>
+			<!-- 奧吉爾 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_6" >
+			<Text>所羅門</Text>
+			<!-- 所羅門 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_7" >
+			<Text>阿斯托爾福</Text>
+			<!-- 阿斯托爾福 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_8" >
+			<Text>法華利亞</Text>
+			<!-- 法華利亞 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_9" >
+			<Text>斐蘭巴拉斯</Text>
+			<!-- 斐蘭巴拉斯 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_10" >
+			<Text>弗雷羅斯馬特</Text>
+			<!-- 弗雷羅斯馬特 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_11" >
+			<Text>奧利弗</Text>
+			<!-- 奧利弗 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_12" >
+			<Text>加尼隆</Text>
+			<!-- 加尼隆 -->
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PERSONALITY_TRAIT_CHARLEMAGNE_SABER">
+			<Text>吾轉瞬即逝的榮光</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PERSONALITY_TRAIT_CHARLEMAGNE_SABER_HELP">
+			<Text>透過 [ICON_CULTURE] 文化值賺取的社會優勢可獲得無償社會優勢；透過 [ICON_RESEARCH] 科技值賺取的研究項目可獲得無償研究項目。</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_PLAYERPERK_PERSONALITY_TRAIT_CHARLEMAGNE_SABER1_HELP">
+			<Text>透過 [ICON_CULTURE] 文化值賺取的社會優勢每 4 個可獲得 1 個無償社會優勢；透過 [ICON_RESEARCH] 科技值賺取的研究項目每 8 個可獲得 1 個無償研究項目。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_PERSONALITY_TRAIT_CHARLEMAGNE_SABER2_HELP">
+			<Text>透過 [ICON_CULTURE] 文化值賺取的社會優勢每 3 個可獲得 1 個無償社會優勢；透過 [ICON_RESEARCH] 科技值賺取的研究項目每 7 個可獲得 1 個無償研究項目。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_PERSONALITY_TRAIT_CHARLEMAGNE_SABER3_HELP">
+			<Text>透過 [ICON_CULTURE] 文化值賺取的社會優勢每 2 個可獲得 1 個無償社會優勢；透過 [ICON_RESEARCH] 科技值賺取的研究項目每 6 個可獲得 1 個無償研究項目。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FOREIGN_POLICY_CHARLEMAGNE_SABER_A_HELP">
+			<Text>城市發展的產出提高。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FOREIGN_POLICY_CHARLEMAGNE_SABER_B_HELP">
+			<Text>在友方領土中戰鬥的單位 + [ICON_STRENGTH] 戰鬥力和 [ICON_RANGE_STRENGTH] 遠程戰鬥力。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FOREIGN_POLICY_CHARLEMAGNE_SABER_A">
+			<Text>魔力放出（光）A</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_FOREIGN_POLICY_CHARLEMAGNE_SABER_B">
+			<Text>王道踏破 C</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_A1_HELP">
+			<Text>城市發展的產出提高100%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_A2_HELP">
+			<Text>城市發展的產出提高200%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_A3_HELP">
+			<Text>城市發展的產出提高300%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_A4_HELP">
+			<Text>城市發展的產出提高400%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_A5_HELP">
+			<Text>城市發展的產出提高500%。</Text>
+		</Row>
+		
+
+
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_B1_HELP">
+			<Text>在友方領土中戰鬥的單位 +12% [ICON_STRENGTH] 戰鬥力和 [ICON_RANGE_STRENGTH] 遠程戰鬥力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_B2_HELP">
+			<Text>在友方領土中戰鬥的單位 +24% [ICON_STRENGTH] 戰鬥力和 [ICON_RANGE_STRENGTH] 遠程戰鬥力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_B3_HELP">
+			<Text>在友方領土中戰鬥的單位 +36% [ICON_STRENGTH] 戰鬥力和 [ICON_RANGE_STRENGTH] 遠程戰鬥力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_B4_HELP">
+			<Text>在友方領土中戰鬥的單位 +48% [ICON_STRENGTH] 戰鬥力和 [ICON_RANGE_STRENGTH] 遠程戰鬥力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_B5_HELP">
+			<Text>在友方領土中戰鬥的單位 +60% [ICON_STRENGTH] 戰鬥力和 [ICON_RANGE_STRENGTH] 遠程戰鬥力。</Text>
+		</Row>
+
+	</Language_ZH_HANT_HK>
+
+
+	<Language_ZH_HANS_CN>
+
+		<Row Tag="TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_DESC">
+			<Text>帅气的“法兰克王国”</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_SHORT_DESC">
+			<Text>“法兰克”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_ADJECTIVE">
+			<Text>“法兰克”的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER">
+			<Text>查理曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_FACTOID_HEADINGD">
+			<Text>帅气的“法兰克王国”</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_TITLE">
+			<Text>“法兰克”</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_FACTOID_HEADING">
+			<Text>文明信息</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_FACTOID_TEXT">
+			<Text>这个文明是通过查理曼宝具虚拟化製成的，所以并没有什麽资料。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_HEADING_1">
+			<Text>第二个宝具</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_TEXT_1">
+			<Text>吾转瞬即逝的荣光，一座巨大的空中要塞，在这裡，它创造了整个“法兰克”。</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV5_DAWN_CHARLEMAGNE_SABER_FRANCIA_TEXT" >
+			<Text>一个无忧无虑的年轻人，有点直言不讳地说自己不太适合成为国王。他将审美标准和行为放在“这是酷还是不酷”上，即便会给御主造成麻烦，甚至是对自己的一个缺点......儘管存在这种人格缺陷，但阿斯托尔福仍将查理曼描述为一个尽职尽责的仁慈之王。会与他的人民一起哭泣和欢笑，并帮助那些有需要的人。 </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_CHARLEMAGNE_SABER_ABILITY" >
+			<Text>双倍法国、德国、罗马文明特性（来自文明5）。经验获取速度、前哨站成长速度、城邦友好和城邦奖励、奇观和项目建造速度分别加成200%、150%、100%、50%。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_CHARLEMAGNE_SABER_ABILITY_SHORT" >
+			<Text>展示王勇遍历巡世的十二辉剑</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_REAL_CAPITAL" >
+			<Text>查理曼的亚琛</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_1" >
+			<Text>卫宫的冬木</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_2" >
+			<Text>贞德的奥尔良</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_3" >
+			<Text>德雷克的无尽之海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_4" >
+			<Text>尼禄的罗马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_5" >
+			<Text>福尔摩斯的伦敦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_6" >
+			<Text>爱迪生的美利坚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_7" >
+			<Text>阿尔托莉雅的卡美洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_8" >
+			<Text>吉尔伽美什的巴比伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_9" >
+			<Text>所罗门的神殿</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_10" >
+			<Text>伊斯坎达尔的马其顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_11" >
+			<Text>奥兹曼迪亚斯的埃及</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_12" >
+			<Text>拿破仑的法兰西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_13" >
+			<Text>武则天的中国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_14" >
+			<Text>大卫的以色列</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_15" >
+			<Text>大流士三世的波斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_16" >
+			<Text>赛米拉米斯的亚述</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_17" >
+			<Text>阿提拉的匈奴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_18" >
+			<Text>艾蕾什基伽尔的冥界</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_19" >
+			<Text>BB的SE.RA.PH</Text>
+		</Row>
+
+
+
+
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_1" >
+			<Text>罗兰</Text>
+			<!-- 罗兰 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_2" >
+			<Text>李拿度</Text>
+			<!-- 李拿度 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_3" >
+			<Text>托宾</Text>
+			<!-- 托宾 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_4" >
+			<Text>马拉吉吉</Text>
+			<!-- 马拉吉吉 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_5" >
+			<Text>奥吉尔</Text>
+			<!-- 奥吉尔 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_6" >
+			<Text>所罗门</Text>
+			<!-- 所罗门 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_7" >
+			<Text>阿斯托尔福</Text>
+			<!-- 阿斯托尔福 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_8" >
+			<Text>法华利亚</Text>
+			<!-- 法华利亚 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_9" >
+			<Text>斐兰巴拉斯</Text>
+			<!-- 斐兰巴拉斯 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_10" >
+			<Text>弗雷罗斯马特</Text>
+			<!-- 弗雷罗斯马特 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_11" >
+			<Text>奥利弗</Text>
+			<!-- 奥利弗 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_12" >
+			<Text>加尼隆</Text>
+			<!-- 加尼隆 -->
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PERSONALITY_TRAIT_CHARLEMAGNE_SABER">
+			<Text>吾转瞬即逝的荣光</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PERSONALITY_TRAIT_CHARLEMAGNE_SABER_HELP">
+			<Text>透过 [ICON_CULTURE] 文化值赚取的社会优势可获得无偿社会优势；透过 [ICON_RESEARCH] 科技值赚取的研究项目可获得无偿研究项目。</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_PLAYERPERK_PERSONALITY_TRAIT_CHARLEMAGNE_SABER1_HELP">
+			<Text>透过 [ICON_CULTURE] 文化值赚取的社会优势每 4 个可获得 1 个无偿社会优势；透过 [ICON_RESEARCH] 科技值赚取的研究项目每 8 个可获得 1 个无偿研究项目。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_PERSONALITY_TRAIT_CHARLEMAGNE_SABER2_HELP">
+			<Text>透过 [ICON_CULTURE] 文化值赚取的社会优势每 3 个可获得 1 个无偿社会优势；透过 [ICON_RESEARCH] 科技值赚取的研究项目每 7 个可获得 1 个无偿研究项目。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_PERSONALITY_TRAIT_CHARLEMAGNE_SABER3_HELP">
+			<Text>透过 [ICON_CULTURE] 文化值赚取的社会优势每 2 个可获得 1 个无偿社会优势；透过 [ICON_RESEARCH] 科技值赚取的研究项目每 6 个可获得 1 个无偿研究项目。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FOREIGN_POLICY_CHARLEMAGNE_SABER_A_HELP">
+			<Text>城市发展的产出提高。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FOREIGN_POLICY_CHARLEMAGNE_SABER_B_HELP">
+			<Text>在友方领土中战斗的单位 + [ICON_STRENGTH] 战斗力和 [ICON_RANGE_STRENGTH] 远程战斗力。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FOREIGN_POLICY_CHARLEMAGNE_SABER_A">
+			<Text>魔力放出（光）A</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FOREIGN_POLICY_CHARLEMAGNE_SABER_B">
+			<Text>王道踏破 C</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_A1_HELP">
+			<Text>城市发展的产出提高100%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_A2_HELP">
+			<Text>城市发展的产出提高200%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_A3_HELP">
+			<Text>城市发展的产出提高300%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_A4_HELP">
+			<Text>城市发展的产出提高400%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_A5_HELP">
+			<Text>城市发展的产出提高500%。</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_B1_HELP">
+			<Text>在友方领土中战斗的单位 +12% [ICON_STRENGTH] 战斗力和 [ICON_RANGE_STRENGTH] 远程战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_B2_HELP">
+			<Text>在友方领土中战斗的单位 +24% [ICON_STRENGTH] 战斗力和 [ICON_RANGE_STRENGTH] 远程战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_B3_HELP">
+			<Text>在友方领土中战斗的单位 +36% [ICON_STRENGTH] 战斗力和 [ICON_RANGE_STRENGTH] 远程战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_B4_HELP">
+			<Text>在友方领土中战斗的单位 +48% [ICON_STRENGTH] 战斗力和 [ICON_RANGE_STRENGTH] 远程战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYERPERK_FOREIGN_POLICY_CHARLEMAGNE_SABER_B5_HELP">
+			<Text>在友方领土中战斗的单位 +60% [ICON_STRENGTH] 战斗力和 [ICON_RANGE_STRENGTH] 远程战斗力。</Text>
+		</Row>
+
+
+
+	</Language_ZH_HANS_CN>
+	
+</GameData>

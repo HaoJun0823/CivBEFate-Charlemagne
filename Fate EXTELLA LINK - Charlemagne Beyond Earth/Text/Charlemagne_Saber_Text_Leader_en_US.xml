@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/27/2018 10:07:54 AM -->
+<GameData>
+	<Language_en_US>
+		
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_1">
+		  <Text>Great!</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_2">
+		  <Text>Okay!</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_3">
+		  <Text>No problem!</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_4">
+		  <Text>Of course!</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_5">
+		  <Text>Wonderful!</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_6">
+		  <Text>Perfect!</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_AGREE_SHORT_7">
+		  <Text>Well done!</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_ATTACKED_1">
+		  <Text>For this world... I have to choose the worst option... fight.</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_ATTACKED_2">
+		  <Text>Regardless of the past, I have to use the last choice to correct it...</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_ATTACKED_3">
+		  <Text>This is what I chose, pick it up.</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DECLAREWAR_1">
+		  <Text>Sorry, I have to...</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DECLAREWAR_2">
+		  <Text>I am sorry……</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DECLAREWAR_3">
+		  <Text>I know this is not good, but...</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEFEATED_1">
+		  <Text>Oops, I am still young, I am very happy to be able to take risks and see you next time.</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEFEATED_2">
+		  <Text>Congratulations, I won't win... Can I be my teacher, or... Master?</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEFEATED_3">
+		  <Text>Wow! Failed! Really not handsome!</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEMANDTRIBUTE_ANGRY">
+		  <Text>I really need that thing! If you don't give it to me, I will be angry.</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEMANDTRIBUTE_HAPPY">
+		  <Text>Hey! Handsome friend! Can you help me?</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DEMANDTRIBUTE_NEUTRAL">
+		  <Text>Can you give me something?</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_1">
+		  <Text>Sorry, not now.</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_2">
+		  <Text>Let me talk about it later?</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_3">
+		  <Text>Please allow me to refuse.</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_4">
+		  <Text>that's not allowed.</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_5">
+		  <Text>I am also very embarrassed to accept now.</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_6">
+		  <Text>This... isn't it a joke?</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_DISAGREE_SHORT_7">
+		  <Text>Wow! This is so awkward..</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_FIRSTGREETING_1">
+		  <Text>Hello! I am Charlemagne! From SE.RA.PH, let us introduce each other?</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_FIRSTGREETING_2">
+		  <Text>Handsome stranger! Hello! I am Charlemagne! Do you want to ride with me?</Text>
+	  </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_FIRSTGREETING_3">
+      <Text>Ah hello! ruler! emperor? Still the lord? Anyway! Nice to meet you! I am Charlemagne, please call me Charle.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_FIRSTGREETING_4">
+      <Text>Wow! You must be an adventurer from other places? Nice to meet you! I am Charlemagne!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_1">
+      <Text>See you next time!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_2">
+      <Text>See you later!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_3">
+      <Text>Remember to think about me!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_4">
+      <Text>Goodbye goodbye!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_5">
+      <Text>I will hold you next time I meet!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_6">
+      <Text>Wow! See you soon?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GOODBYE_7">
+      <Text>See you there!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_1">
+      <Text>welcome!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_2">
+      <Text>Hey! Handsome leader!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_3">
+      <Text>The weather is very good today! Want to have tea?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_4">
+      <Text>You look very handsome! Same as me~</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_5">
+      <Text>Ok? Is there anything to come to me? Want to play games?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_6">
+      <Text>I have time to take you to my hometown to visit, it is really beautiful!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_GREETING_7">
+      <Text>I hope that the next meeting will be after seven days!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_1">
+      <Text>Come on, I won't mind.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_2">
+      <Text>Any thoughts? cool?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_3">
+      <Text>of course! Speak it out! It’s not good to hide secrets!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_4">
+      <Text>What's matter?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_5">
+      <Text>Uh huh?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_6">
+      <Text>What should I do next?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LETSHEARIT_7">
+      <Text>Ok……</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_LOSEWAR_1">
+      <Text>Wow! How are you strong! Next time I will become stronger!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_QUOTE_1">
+      <Text>"Wow! Is this Rome? Awesome!"</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_QUOTE_2">
+      <Text>"Hey! Master! That is called Japanese tea, give me a cup!"</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_QUOTE_3">
+      <Text>"What's the matter! Occasionally let me spoil it!"</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_QUOTE_4">
+      <Text>"How, handsome!"</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_ANGRY_1">
+      <Text>Hey! It’s not good to humiliate others!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_ANGRY_2">
+      <Text>Don't treat me as an idiot!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_HAPPY_1">
+      <Text>Wow... don't do this, I am very embarrassed...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_HAPPY_2">
+      <Text>Can you? a little? A little more?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_HAPPY_3">
+      <Text>Well, let's talk about the details...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>Fair trade, otherwise it is not handsome at all.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>I think you have more chips, right?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>Let's make this deal better.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>Um... think about it again?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NO_ANGRY">
+      <Text>Forget it... This is not good for anyone.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NO_HAPPY">
+      <Text>Oh...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_NO_NEUTRAL">
+      <Text>If you want to know, actually, I am not happy.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_YES_ANGRY">
+      <Text>So be it.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_YES_HAPPY">
+      <Text>thank you very much! I will repay!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADE_YES_NEUTRAL">
+      <Text>Thank you for your help!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADEREQUEST_ANGRY">
+      <Text>Just look at it if you want to see it.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADEREQUEST_HAPPY">
+      <Text>Handsome friend! Take a look at this!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRADEREQUEST_NEUTRAL">
+      <Text>I have something to share with you here, let's see it?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_NO_ANGRY">
+      <Text>Grab... me?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_NO_HAPPY">
+      <Text>Wow! You made such a bad joke make me very embarrassed!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_NO_NEUTRAL">
+      <Text>Excuse me? Did you make any mistakes?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_YES_ANGRY">
+      <Text>Hey... bully me...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_YES_HAPPY">
+      <Text>If... are you happy?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_TRIBUTE_YES_NEUTRAL">
+      <Text>Maybe this will make you feel good about me.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_1">
+      <Text>You make me so anxious!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_2">
+      <Text>why? Why do you want to do this?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_3">
+      <Text>You... there must be a reason, right?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_4">
+      <Text>I don't like disappointment, especially on you.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_5">
+      <Text>If there is any difficulty, can I help you?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WARBLUFF_6">
+      <Text>Don't make mistakes anymore.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_WINWAR_1">
+      <Text>what! ! ! ! Really! ! !</Text>
+    </Row>
+
+
+
+
+
+
+
+
+	  <Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER_PEDIA">
+		  <Text>I am Saber, Charlemagne. In short, calm down first, how about listening to me?</Text>
+	  </Row>
+
+	  <Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_HEADING_1">
+		  <Text>Leader information</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_LIVED">
+		  <Text>Forever</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_NAME">
+		  <Text>Charlemagne(Saber)</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_SUBTITLE">
+		  <Text>Knight from FATE/EXTELLA LINK</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_TEXT_1">
+		  <Text>Saber's True Name is Charlemagne (シャルルマーニュ, Sharurumānyu), leader and namesake of the Twelve Paladins of Charlemagne. The legend of Charlemagne and his paladins is based off of the real life exploits of Karl der Große. They are both the same Heroic Spirit with the same Saint Graph, but Charlemagne would normally never be summoned due to the real life exploits of Karl far outweighing the fantasy. He is only summoned due to the specific events of the story, but his Saint Graph is registered as a unique existence at the end of the story to allow him to be summoned individually. </Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_CHARLEMAGNE_SABER_TITLES_1">
+		  <Text>Holy Knight Emperor EX</Text>
+	  </Row>
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+
+		
+		
+	</Language_en_US>
+  
+</GameData>

@@ -1,0 +1,10 @@
+
+<LeaderScene>
+	<FallbackImage ID="Level1" image="Charlemagne_Saber_Scene_2d.dds"/>
+	<FallbackImage ID="Level2_Purity" image="Charlemagne_Saber_Scene_2d.dds"/>
+	<FallbackImage ID="Level2_Harmony" image="Charlemagne_Saber_Scene_2d.dds"/>
+	<FallbackImage ID="Level2_Supremacy" image="Charlemagne_Saber_Scene_2d.dds"/>
+	<FallbackImage ID="Level3_Purity" image="Charlemagne_Saber_Scene_2d.dds"/>
+	<FallbackImage ID="Level3_Harmony" image="Charlemagne_Saber_Scene_2d.dds"/>
+	<FallbackImage ID="Level3_Supremacy" image="Charlemagne_Saber_Scene_2d.dds"/>
+</LeaderScene>
